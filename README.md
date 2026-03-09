@@ -36,7 +36,7 @@ Generic AI agents don't understand on-chain data, tokenomics, MEV, or DeFi yield
 ### Option 1: Auto-Detect (Recommended)
 
 ```bash
-git clone https://github.com/capitalflow93/crypto-agency-pack.git
+git clone https://github.com/agentsouls/crypto-agency-pack.git
 cd crypto-agency-pack
 ./scripts/install.sh
 ```
